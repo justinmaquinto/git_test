@@ -1,2 +1,2 @@
 My name is Justin!
-git status checking
+just checking the functionality of Git
