@@ -1,2 +1,2 @@
 My name is Justin!
-just checking the functionality of Git
+Time to log off. Bye!
