@@ -1,2 +1,2 @@
 My name is Justin!
-Time to log off. Bye!
+Welcome to Day 2 of Git Course!
